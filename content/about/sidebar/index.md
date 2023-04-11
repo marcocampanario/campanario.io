@@ -1,6 +1,6 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Marco Antonio Campanário"
+author: "Marco Campanário"
 role: "Bioinformatics | Molecular Biology | Science Teaching | Evolution"
 avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config

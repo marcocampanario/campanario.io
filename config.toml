@@ -1,7 +1,7 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Personal repository of Marco Campanário"
+title = "Marco Campanário's trophy room"
 author = "Marco Campanário"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -28,7 +28,7 @@ enableEmoji = true
     style = "github"
 
 [params]
-  orgName = "Marco Antonio Campanário"
+  orgName = "Marco Campanário"
   orgLocal = ""
   description = "Network Science | Bioinformatics | Statistics | Biotechnology"
   favicon = "/img/logo.png"

@@ -1,7 +1,7 @@
 ---
-title: "Marco Antonio Campanário"
+title: "Marco Campanário"
 subtitle: "Science Learner"
-description: "Network Science | Bioinformatics | Statistics | Biotechnology"
+description: "Bioinformatics | Molecular Biology | Science Teaching | Evolution"
 date: 2021-06-08
 image_left: true
 text_align_left: false
