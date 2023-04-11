@@ -2,7 +2,7 @@
 title: My Publications
 description: |
  Here I list all my peer-reviewed publications
-author: "Deisy Morselli Gysi"
+author: "Marco Antonio Campanário"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
@@ -17,12 +17,12 @@ sidebar:
   description: |
     Here I list all my peer-reviewed publications.
 
-  author: "Deisy Morselli Gysi"
+  author: "Marco Antonio Campanário"
   show_sidebar_adunit: false # show ad container
 
 # set up common front matter for all individual pages inside project/
 cascade:
-  author: "Deisy Morselli Gysi"
+  author: "Marco Antonio Campanário"
   show_author_byline: true
   show_post_date: true
   show_post_time: false
