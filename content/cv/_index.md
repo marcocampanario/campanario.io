@@ -1,7 +1,7 @@
 ---
 title: CV
 description: ""
-author: "Deisy Morselli Gysi"
+author: "Marco Antonio Campanário"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false
