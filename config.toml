@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "Deisy Morselli Gysi"
   orgLocal = ""
   description = "Network Science | Bioinformatics | Statistics | Biotechnology"
-  favicon = "/img/logo_color.png"
-  logo = "/img/logo_color.png"
+  favicon = "/img/logo.png"
+  logo = "/img/logo.png"
   mainSections = ["publications", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -43,12 +43,12 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/logo_color.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "GysiDeisy"
+  twitter = "MarcoCampanario"
 
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water
-  theme = "solarizedLight"
+  theme = "sky"
 
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/

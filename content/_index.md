@@ -1,6 +1,6 @@
 ---
-title: "Deisy Morselli Gysi"
-subtitle: "Networks & Cognition"
+title: "Marco Antonio Campanário"
+subtitle: "Science Learner"
 description: "Network Science | Bioinformatics | Statistics | Biotechnology"
 date: 2021-06-08
 image_left: true
