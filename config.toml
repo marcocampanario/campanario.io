@@ -1,8 +1,8 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Personal wonderland of Deisy Gysi"
-author = "Deisy Gysi"
+title = "Personal repository of Marco Campanário"
+author = "Marco Campanário"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = ""
@@ -41,7 +41,7 @@ enableEmoji = true
   socialInFooter = true
   # Default image for social sharing and search engines.
   # Place image file in `static` folder and specify image name here.
-  sharing_image = "/img/logo_color.png"
+  sharing_image = "/img/logo.png"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
   twitter = "MarcoCampanario"
 
