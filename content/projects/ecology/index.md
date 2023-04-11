@@ -3,7 +3,7 @@ title: "Teaching-learning of Science"
 subtitle: "Development and Analysis of Educational Games to teach Science"
 excerpt: "Using systems thinking to elevate the complexity of Science Teaching."
 date: 2018-01-01
-author: "Marco Campanário"
+author: "Marco Antonio Campanário"
 draft: false
 tags:
   - ecology
