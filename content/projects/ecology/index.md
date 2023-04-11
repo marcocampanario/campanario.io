@@ -1,9 +1,9 @@
 ---
-title: "Ecology"
-subtitle: "Ecology, fungi, bacterias and their netwoks"
-excerpt: "Using Network Science to understanding microbiology."
+title: "Teaching-learning of Science"
+subtitle: "Development and Analysis of Educational Games to teach Science"
+excerpt: "Using systems thinking to elevate the complexity of Science Teaching."
 date: 2018-01-01
-author: "Deisy Morselli Gysi"
+author: "Marco Campanário"
 draft: false
 tags:
   - ecology
@@ -19,12 +19,12 @@ layout: single
 
 ## Summary
 
-Different species interact with one another in differnt manners, according to their surrounding. The project related to ecology I'm involved with focus on the identification of community structures based on metagenomics. 
+The emergent complexity of modern issues and the deep density of abstract and complex concepts in Genetics lead to the necessity of alternative teaching strategies and resources beyond the traditional, mechanical-positivist education. 
 
 ## Publications :books:
 
-📄 Kolora, S.R.R., **Gysi, D.M.**, Schaffer, S., Grimm-Seyfarth, A., Szabolcs, M., Faria, R., Henle, K.,  Stadler, P.F., Schlegel, M., Nowick, K. _Accelerated evolution of tissue-specific genes mediates divergence amidst gene flow in European green lizards_, **Genome Biology and Evolution**. (2021) [doi:10.1093/gbe/evab109](https://doi.org/10.1093/gbe/evab109)
+📄 **Campanário, M. A.**, Oliveira, M. G. P., Passos, R. K., Redondo, W. S. G., Husak, W. S. *Ferramentas lúdicas virtuais no ensino remoto: uma experiência do PIBID/UFPR-Biologia no Colégio Estadual do Paraná*. *In*: Anais do Encontro Nacional das Licenciaturas, Seminário Nacional do PIBID, Encontro Nacional de Coordenadores do PIBID (Vol. 1). Campina Grande: Realize Editora (2022).
 
-📄 Banos, S., Gysi, D. M., Richter-Heitmann, T., Glöckner, F. O., Boersma, M., Wiltshire, K.H., Gerdts, G., Wichels, A., Reich, M. _Seasonal Dynamics of Pelagic Mycoplanktonic Communities: Interplay of Taxon Abundance, Temporal Occurrence, , Biotic Interactions_, **Frontiers in Microbiology**. vol. 11, no. NA (2020) [doi:10.3389/fmicb.2020.01305](doi:10.3389/fmicb.2020.01305)
+📄 **Campanário, M. A. S.**, Oliveira, M. G. P., Passos, R. K., Redondo, W. S. G., Sammarco, Y. M. *Ferramentas lúdicas virtuais para o Ensino à Distância*. *In*: Anais da XXII Semana de Ensino Pesquisa e Extensão - SEPE 2021 (Vol. 1, pp. 1-90). Curitiba: Editora UFPR (2021).
 
-📄 Dumack, K., Olga, F., Gysi,  D. M., Jauss, R.T., Walden, S., Hüsna, O. ,  Wubet, T., Michael, B., Eisenhauer, N. _Effects of earthworm invasion on the diversity of protists (Cercozoa: Rhizaria) in North American_, **Submitted**. (2021). 
+📄 Silva, J. A. R., **Campanário, M. A. S.**, Sammarco, Y. M. *O pensamento sistêmico no ensino de Ciências e Biologia: um diálogo entre epistemologias.* *In*: Anais da XXII Semana de Ensino Pesquisa e Extensão - SEPE 2021 (Vol. 1, pp. 1-90). Curitiba: Editora UFPR (2021).
