@@ -1,13 +1,13 @@
 ---
-title: "Network Medicine & Drug Repurpusing in Times of Pandemic"
-excerpt: "Presentation about drug repurpusing methodologies in the context of COVID-19 at INMEGEN."
-date: 2022-04-02
-date_end: "2022-04-02"
+title: "Green Microalgae Molecular Biology"
+excerpt: "Presentation about microalgal biotechnology and micro/macroscale green microalgae cultivation at XXX Ciclo de Atualizações em Ciências Biológicas da UFPR."
+date: 2020-10-07
+date_end: "2020-10-07"
 show_post_time: false
-event: "II Semana de la Biología Computacional"
-event_url: https://www.inmegen.gob.mx/ensenanza/eventos-academicos/segunda-semana-de-la-biologia-computacional/
-author: "Deisy Morselli Gysi"
-location: "Mexico City, Mexico"
+event: "XXX Ciclo de Atualizações em Ciências Biológicas da UFPR"
+event_url: https://www.even3.com.br/semanadabio2020/
+author: "Marco Antonio Campanário"
+location: "Curitiba, Brazil"
 draft: false
 # layout options: single, single-sidebar
 layout: single
@@ -18,13 +18,13 @@ links:
 - icon: door-open
   icon_pack: fas
   name: Program
-  url: https://www.inmegen.gob.mx/ensenanza/eventos-academicos/segunda-semana-de-la-biologia-computacional/
+  url: https://www.even3.com.br/semanadabio2020/
 - icon: youtube
   icon_pack: fab
   name: Link to the talk
-  url: https://www.youtube.com/watch?v=WcUwcFmD8ys 
+  url: https://www.youtube.com/watch?v=FdvE_Js88j8 
   
 ---
   
-Presentation about drug repurpusing methodologies in the context of COVID-19 at II Semana de la Biología Computacional. 
+Presentation about microalgal biotechnology and micro/macroscale green microalgae cultivation at XXX Ciclo de Atualizações em Ciências Biológicas da UFPR. 
 
