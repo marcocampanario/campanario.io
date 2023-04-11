@@ -1,7 +1,7 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Deisy Morselli Gysi"
-role: "Network Science | Bioinformatics | Statistics | Biotechnology"
+author: "Marco Antonio Campanário"
+role: "Bioinformatics | Molecular Biology | Science Teaching | Evolution"
 avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
 # show_audio_link: true
