@@ -26,7 +26,10 @@ enableEmoji = true
   [markup.highlight]
     # one of: https://xyproto.github.io/splash/docs/ 
     style = "github"
-    
+
+[[params.js_dependencies]]
+src = "/js/particles.js"
+
 [params]
   orgName = "RStudio"
   orgLocal = "Anywhere"
