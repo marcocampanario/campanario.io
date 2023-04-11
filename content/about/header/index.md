@@ -15,4 +15,4 @@ During the whole undergraduate time, I was involved in several research projects
 
 I have already worked with **Microalgal Genetics** (i. e. microalgal biomass enhancement for biofuel production, micro- and macroscale green microalgae and diatom cultivation and cell transformation), with **Biology and Science teaching** (such as the development of educational games on Genetics and Evolution), and with **cancer-regulating lncRNAs** (for example, leukemia-associated single-nucleotide polymorphisms (SNPs) in lncRNAs on Brazilian populations).
 
-I am also part of a professional dance company (**Epifania Dance Project**) directed by the genious and inspiring choreographer Guiga de Souza. I participated at big events such as *FIH2* (Curitiba - PR), *RioH2K* (Rio de Janeiro - RJ) and *O Movimento* (Maringá - PR).
+I am also part of a professional dance company (**Epifania Dance Project**) directed by the genious and inspiring choreographer Guiga de Souza. I participated in big dance events such as *FIH2* (Curitiba - PR), *RioH2K* (Rio de Janeiro - RJ) and *O Movimento* (Maringá - PR).
