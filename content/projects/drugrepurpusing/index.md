@@ -28,6 +28,6 @@ The project was a collaboration between the Laboratory of Microbial Genetics (La
 
 ## Publications :books:
 
-:page_facing_up: Patten, JJ, Keiser, P. T., **Gysi, D.M.**, Menichetti, G., Mori, H., Donahue, C. J., Gan, X., Do Valle, I., Geoghegan-Barek, K., Anantpadma, M., Berrigan, J. L., Jalloh, S., Ayazika, T., Wagner, F., Zitnik, M., Ayehunie, S., Anderson, D., Loscalzo, J., Gummuluru, S., Namchuk, M. N.,  Barabasi, A. L., Davey, R. A. _Multidose evaluation of 6,710 drug repurposing library identifies potent SARS-CoV-2 infection inhibitors In Vitro and In Vivo_, Submitted. (2021). 
+:page_facing_up: **Campanário, M. A. S.**, Passos, M. F., Vargas, J. V. C., Soares Medeiros, L. C., Kava, V. M. *Transformação genética de Tetradesmus obliquus (Turpin) M.J.Wynne isolado do Paraná.* *In*: Anais do I Congresso Brasileiro de Biologia Molecular On-line (Vol. 1, pp. 1-138). Via Remota: Editora IME (2020). 
 
-:page_facing_up: **Gysi, D.M.**, do Valle, I., Zitnik, M., Ameli, A., Gan, X., Varol, O., Ghiassian, S.D., Patten, J. J., Davey, R.A., Loscalzo, J., Barabasi, A.L. _Network medicine framework for identifying drug-repurposing opportunities for COVID-19_, **Proceedings of the National Academy of Sciences**. vol. 118, no. 19 (2021) [doi:10.1073/pnas.2025581118](https://doi.org/10.1073/pnas.2025581118)
+:page_facing_up: **Campanário, M. A. S.**, Kava, V. M. *Transformação genética de Tetradesmus obliquus LGMA01*. *In*: Anais da 11ª SIEPE - 27º EVINCI/12º EINTI 2019: Ciências da vida (Vol. 1, pp. 281-281). Curitiba: 1º Festival UFPR da Ciência, Cultura e Inovação (2019).
