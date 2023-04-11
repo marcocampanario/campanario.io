@@ -2,7 +2,7 @@
 title: Talks I've given
 description: |
  Here I list all talks I gave in conferences 
-author: "Deisy Morselli Gysi"
+author: "Marco Antonio Campanário"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
@@ -22,7 +22,7 @@ sidebar:
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "Deisy Morselli GYsi"
+  author: "Marco Antonio Campanário"
   show_author_byline: true
   show_post_date: true
   show_post_time: true
