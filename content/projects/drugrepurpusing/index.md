@@ -1,6 +1,6 @@
 ---
-title: "Biotechnologically-important Microalgae"
-subtitle: "Genetic Characterization of Brazilian Chlorophyceae and Bacillariophyceae"
+title: "Microalgae Biotechnology"
+subtitle: "Molecular Characterization of Brazilian Chlorophyceae and Bacillariophyceae"
 excerpt: "Developing genetic transformation tools for enhancing algal biomass."
 date: 2021-01-01
 author: "Marco Antonio Campanário"
