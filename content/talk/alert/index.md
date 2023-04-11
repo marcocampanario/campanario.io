@@ -1,18 +1,23 @@
 ---
-title: "Network Medicine Framework for Identifying Drug Repurposing Opportunities for COVID-19"
-excerpt: "Presentation about drug repurpusing methodologies in the context of COVID-19."
-date: 2020-10-22
-date_end: "2020-10-22"
+title: "Genetics Studies on Cancer"
+excerpt: "Workshop about the basics of cancer biology and the latest molecular tools for functional studies on Oncogenetics."
+date: 2023-03-08
+date_end: "2023-03-08"
 show_post_time: false
-event: "ALERT 2021"
-#event_url: https://congress.eular.org/index.cfm
-author: "Deisy Morselli Gysi"
-location: "Boston, USA"
+event: "XII SIMBIOSE"
+event_url: https://sites.google.com/view/cabiom/projetos/simbiose
+author: "Marco Antonio Campanário"
+location: "Curitiba, Brazil"
 draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
 - talk
+links:
+- icon: door-open
+  icon_pack: fas
+  name: Program
+  url: https://sites.google.com/view/cabiom/projetos/simbiose
 ---
 
-Presentation about drug repurpusing methodologies in the context of COVID-19 at ALERT-NEU
+Workshop about the basics of cancer biology and the latest molecular tools for functional studies on Oncogenetics.
