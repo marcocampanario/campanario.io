@@ -28,6 +28,6 @@ The project was a collaboration between the Laboratory of Microbial Genetics (La
 
 ## Publications :books:
 
-:page_facing_up: Campanário, M. A. S., Passos, M. F., Vargas, J. V. C., Soares Medeiros, L. C., Kava, V. M. Transformação genética de Tetradesmus obliquus (Turpin) M.J.Wynne isolado do Paraná. In: Anais do I Congresso Brasileiro de Biologia Molecular On-line (Vol. 1, pp. 1-138). Via Remota: Editora IME (2020).
+:page_facing_up: **Campanário, M. A. S.**, Passos, M. F., Vargas, J. V. C., Soares Medeiros, L. C., Kava, V. M. Transformação genética de Tetradesmus obliquus (Turpin) M.J.Wynne isolado do Paraná. In: Anais do I Congresso Brasileiro de Biologia Molecular On-line (Vol. 1, pp. 1-138). Via Remota: Editora IME (2020).
 
-:page_facing_up: Campanário, M. A. S., Kava, V. M. Transformação genética de Tetradesmus obliquus LGMA01. In: Anais da 11ª SIEPE - 27º EVINCI/12º EINTI 2019: Ciências da vida (Vol. 1, pp. 281-281). Curitiba: 1º Festival UFPR da Ciência, Cultura e Inovação (2019).
+:page_facing_up: **Campanário, M. A. S.**, Kava, V. M. Transformação genética de Tetradesmus obliquus LGMA01. In: Anais da 11ª SIEPE - 27º EVINCI/12º EINTI 2019: Ciências da vida (Vol. 1, pp. 281-281). Curitiba: 1º Festival UFPR da Ciência, Cultura e Inovação (2019).
