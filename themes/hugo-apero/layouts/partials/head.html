@@ -16,4 +16,10 @@
   <!-- headroom.js -->
   {{ $mainJs := resources.Get "js/main.js" | js.Build "main.js" | minify | fingerprint }}
   <script src="{{ $mainJs.RelPermalink }}" type="text/javascript"></script>
+  <script src="/js/particles.js"></script>
+  <script>
+  particlesJS.load('particles-js', '/js/particles.json', function() {
+    console.log('particles.js loaded...');
+  });
+  </script>
 </head>
