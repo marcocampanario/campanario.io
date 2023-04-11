@@ -28,7 +28,7 @@ enableEmoji = true
     style = "github"
 
 [params]
-  orgName = "Deisy Morselli Gysi"
+  orgName = "Marco Antonio Campanário"
   orgLocal = ""
   description = "Network Science | Bioinformatics | Statistics | Biotechnology"
   favicon = "/img/logo.png"
@@ -77,31 +77,27 @@ enableEmoji = true
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/deisygysi"
-  [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/GysiDeisy"
-  [[params.social]]
-      icon      = "linkedin" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.linkedin.com/in/deisy-morselli-gysi/"
-  [[params.social]]
-      icon      = "google-scholar" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://scholar.google.com/citations?user=LUOTahsAAAAJ&hl=en"
+      url       = "https://github.com/marcocampanario"
   [[params.social]]
       icon      = "lattes" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "http://lattes.cnpq.br/8705355235534573"
+      url       = "http://lattes.cnpq.br/3151326822304466"
+  [[params.social]]
+      icon      = "linkedin" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.linkedin.com/in/marcocampanario/"
+  [[params.social]]
+      icon      = "twitter" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://twitter.com/marcocampanario"
   [[params.social]]
       icon      = "researchgate" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "https://www.researchgate.net/profile/Deisy-Gysi"
- [[params.social]]
-      icon      = "mug-hot" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "https://ko-fi.com/deisygysi"
+      url       = "https://www.researchgate.net/profile/Marco-Antonio-Campanario"
+  [[params.social]]
+      icon      = "instagram" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.instagram.com/evolvere.a/"
 
 [taxonomies]
   category = "categories"
