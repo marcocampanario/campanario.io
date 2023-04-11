@@ -26,7 +26,7 @@ The project was a collaboration between the Laboratory of Microbial Genetics (La
 
 
 
-## Publications :books:
+## Academic production :books:
 
 :page_facing_up: **Campanário, M. A. S.**, Passos, M. F., Vargas, J. V. C., Soares Medeiros, L. C., Kava, V. M. *Transformação genética de Tetradesmus obliquus (Turpin) M.J.Wynne isolado do Paraná.* *In*: Anais do I Congresso Brasileiro de Biologia Molecular On-line (Vol. 1, pp. 1-138). Via Remota: Editora IME (2020). 
 
