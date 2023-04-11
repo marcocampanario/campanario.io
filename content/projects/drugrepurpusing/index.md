@@ -1,9 +1,9 @@
 ---
-title: "Drug Repurpusing"
-subtitle: "Drug Repurpusing using Network Medicine"
-excerpt: "Using Network Medicine for identifying drug candidates for complex and infectious diseases."
+title: "Biotechnologically-important Microalgae"
+subtitle: "Genetic Characterization of Brazilian Chlorophyceae and Bacillariophyceae"
+excerpt: "Developing genetic transformation tools for enhancing algal biomass."
 date: 2021-01-01
-author: "Deisy Morselli Gysi"
+author: "Marco Antonio Campanário"
 draft: false
 tags:
   - drug-repurpusing
@@ -19,10 +19,9 @@ layout: single
 
 ## Summary
 
-Drug repurposing algorithms rank drugs based on one or multiple streams of information, such as molecular profiles, chemical structures, adverse profiles, molecular docking, electronic health records, pathway analysis, genome wide association studies (GWAS), and network perturbations. 
-Yet, in most studies only a small subset of the top candidates is validated experimentally, hence the true predictive power of the existing repurposing algorithms remains unknown. To quantify and compare their true predictive power, different algorithms must make predictions for the same set of candidates, and the experimental validation must focus not only on the top candidates, as it does now, but on a wider list of drugs chosen independently of their predicted rank. 
+Microalgae produce various economically valuable compounds, such as oils and antioxidant pigments, which are used for different purposes such as human nutrition and biofuel production. In order to understand the metabolism of these compounds and assist future research with green microalgae, the aim of the project was to improve an efficient genetic transformation system for green and brown microalgae.
 
-The advances in drug repurpusing offer a methodological pathway to identify repurposable drugs for future pathogens and neglected diseases underserved by the costs and extended timeline of de novo drug development.
+The project was a collaboration between the Laboratory of Microbial Genetics (LabGeM-UFPR), the Center for Research and Development of Self-Sustaining Energy (NPDEAS-UFPR) and the Carlos Chagas Institute (ICC-Fiocruz).
 
 
 
