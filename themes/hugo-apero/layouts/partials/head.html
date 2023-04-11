@@ -1,3 +1,8 @@
+{{ $js_deps := .Site.Params.js_dependencies }}
+{{ range $js_deps }}
+<script src="{{ .src }}"></script>
+{{ end }}
+
 <head>
   {{ partial "meta.html" . }}
   {{ template "_internal/schema.html" . }}
