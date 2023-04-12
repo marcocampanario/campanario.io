@@ -118,6 +118,10 @@ Bioinformatics basic tools.
 
 - [Awesome Bioinf - A guide to almost everything in Bioinf](https://github.com/danielecook/Awesome-Bioinformatics#readme)
 
+### Whole-Exome Data Analysis :dna:
+- [Lucia Spangenberg's WES tutorial](https://pumped-whitefish-8f9.notion.site/Course-WES-Curitiba-2022-972517e4f0f44a45977388a4c5226bc6)
+- [Hugo Naya's WES/pop. genomics tutorial](https://blakngu.github.io/humanwes/)
+
 ### NGS :dna:
 - [A Gentle Intro to NGS](https://genestack-user-tutorials.readthedocs.io/guide/intro-to-ngs.html)
 - [Another intro for NGS](https://github.com/crazyhottommy/RNA-seq-analysis)
