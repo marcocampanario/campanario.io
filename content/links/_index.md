@@ -1,5 +1,5 @@
 ---
-title: Links and other useful turorials
+title: Links and other useful tutorials
 #description: "Give your projects a place to live online."
 author: "Marco Antonio Campanário"
 show_post_thumbnail: true
