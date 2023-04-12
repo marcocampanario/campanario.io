@@ -33,7 +33,7 @@ cascade:
 ---
 (Updated: November, 30th, 2022)
 
-Here Deisy Morselli Gysi lists some useful tutorials, links and other materials for learning some dataviz, data analysis, statistics, bioinformatics, network science, etc. 
+Here is a list of some useful tutorials, links and other materials for learning some dataviz, data analysis, statistics, bioinformatics, network science, etc. compiled by Deisy Morselli Gysi, a bioinformatician I admire. 
 
 ## DataViz 📊
 
