@@ -14,5 +14,11 @@ draft: false
 layout: single
 categories:
 - talk
-- co-expression analysis
+- workshop
+links:
+- icon: door-open
+  icon_pack: fas
+  name: Program
+  url: http://www.proec.ufpr.br/snct/
+---
 ---

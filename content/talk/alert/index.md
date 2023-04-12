@@ -13,6 +13,7 @@ draft: false
 layout: single
 categories:
 - talk
+- workshop
 links:
 - icon: door-open
   icon_pack: fas
