@@ -1,7 +1,7 @@
 ---
 title: Links and other useful turorials
 #description: "Give your projects a place to live online."
-author: "Deisy Morselli Gysi"
+author: "Marco Antonio Campanário"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false
@@ -33,7 +33,7 @@ cascade:
 ---
 (Updated: November, 30th, 2022)
 
-Here I list some useful tutorials, links and other materials for learning some dataviz, data analysis, statistics, bioinformatics, network science, etc. 
+Here Deisy Morselli Gysi lists some useful tutorials, links and other materials for learning some dataviz, data analysis, statistics, bioinformatics, network science, etc. 
 
 ## DataViz 📊
 
