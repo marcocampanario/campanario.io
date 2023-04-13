@@ -130,22 +130,16 @@ enableEmoji = true
     weight = 4
 
   [[menu.header]]
-    name = "R Packages"
-    title = "R Packages"
-    url = "/rpackages/"
-    weight = 5
-
-  [[menu.header]]
     name = "CV"
     title = "Curriculum Vitae"
     url = "/cv/"
-    weight = 6
+    weight = 5
 
   [[menu.header]]
     name = "Useful Links"
     title = "Useful Links"
     url = "/links/"
-    weight = 7
+    weight = 6
 
 #  [[menu.header]]
 #    name = "Blog"
