@@ -31,7 +31,7 @@ cascade:
     text_link_url: /project/
     show_sidebar_adunit: false # show ad container
 ---
-(Updated: November, 30th, 2022)
+(Updated: April, 13th, 2023)
 
 Here is a list of some useful tutorials, links and other materials for learning some dataviz, data analysis, statistics, bioinformatics, network science, etc. compiled by Deisy Morselli Gysi, a bioinformatician I admire. 
 
