@@ -1,7 +1,7 @@
 particlesJS("particles-js", {
   particles: {
     number: { value: 100, density: { enable: true, value_area: 800 } },
-    color: { value: "#d33682" },
+    color: { value: "#516db0" },
     shape: {
       type: "polygon",
       stroke: { width: 0, color: "#000000" },
@@ -27,7 +27,7 @@ particlesJS("particles-js", {
     },
     move: {
       enable: true,
-      speed: 2.5,
+      speed: 1.8,
       direction: "none",
       random: false,
       straight: false,
