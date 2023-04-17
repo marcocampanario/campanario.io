@@ -39,7 +39,7 @@ particlesJS("particles-js", {
   interactivity: {
     detect_on: "canvas",
     events: {
-      onhover: { enable: true, mode: "repulse" },
+      onhover: { enable: true, mode: "bubble" },
       onclick: { enable: false, mode: "push" },
       resize: true
     },
