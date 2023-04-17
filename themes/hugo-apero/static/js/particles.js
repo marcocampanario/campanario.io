@@ -5,7 +5,7 @@ particlesJS("particles-js", {
     shape: {
       type: "polygon",
       stroke: { width: 0, color: "#000000" },
-      polygon: { nb_sides: 6 },
+      polygon: { nb_sides: 5 },
       image: { src: "img/github.svg", width: 100, height: 100 }
     },
     opacity: {
@@ -28,7 +28,7 @@ particlesJS("particles-js", {
     move: {
       enable: true,
       speed: 2.5,
-      direction: "none",
+      direction: "bottom",
       random: false,
       straight: false,
       out_mode: "out",
