@@ -1,7 +1,7 @@
 ---
 title: Talks I've given
 description: |
- Here I list all talks I gave in conferences 
+ Here I list all talks I gave in conferences, hackathon material I produced, courses I tought and other cool stuff :) 
 author: "Marco Antonio Campanário"
 show_post_thumbnail: true
 show_author_byline: true
@@ -15,7 +15,7 @@ sidebar:
   title: Talks I've given
   description: |
     Here I list all talks I gave in conferences 
-     author: "Deisy Morselli Gysi"
+     author: "Marco Campanário"
   #text_link_label: Subscribe via RSS
   text_link_url: /talk/index.xml
   show_sidebar_adunit: false # show ad container
