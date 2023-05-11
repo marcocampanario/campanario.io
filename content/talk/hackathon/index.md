@@ -32,4 +32,6 @@ links:
   url: https://www.youtube.com/watch?v=8TYWEozgcYU
 ---
 
-Our team Vibrio vibrante won the National Competition of Microbiological Collections and Molecular Genetics (CoNaCoM 2020) with the Phycoil Project. The project consisted in a structured plan to use the Brazilian strain Chlorella sorokiniana 311-32 (Chlorophyceae: Chlorophyta) transformed with pCAMBIA1303-ZEPP::GmDof4::GmDof11 after nuclear sta6 deletion through the deletion cassette Δsta6::cat cloned in the pGreen0029 vector (pGreen0029-Δsta6::cat). This molecular reprogramming of starch/triacylglycerol metabolism enhances the microalga oil yield, thus improving green biofuel production in biorefineries. 
+Our team Vibrio vibrante won the National Competition of Microbiological Collections and Molecular Genetics (CoNaCoM 2020) with the Phycoil Project. The project consisted in a structured plan to use the Brazilian strain Chlorella sorokiniana 311-32 (Chlorophyceae: Chlorophyta) transformed with pCAMBIA1303-ZEPP::GmDof4::GmDof11 after nuclear sta6 deletion through the deletion cassette Δsta6::cat cloned in the pGreen0029 vector (pGreen0029-Δsta6::cat). This molecular reprogramming of starch/triacylglycerol metabolism enhances the microalga oil yield, thus improving green biofuel production in biorefineries.
+
+The event lasted for about a month and the team made two intermediate deliveries (First task and Second task) and a final pitch, which resulted in the team winning the competition (1st place) and receiving the awards for Best Design, Best Research, Best Technique, and Best Outreach.
