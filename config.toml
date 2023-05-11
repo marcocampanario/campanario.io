@@ -1,7 +1,7 @@
 baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Marco Campanário's trophy room"
+title = "Marco Campanário's room"
 author = "Marco Antonio Campanário"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Network Science | Bioinformatics | Statistics | Biotechnology"
   favicon = "/img/logo.png"
   logo = "/img/logo.png"
-  mainSections = ["publications", "project", "talk"]
+  mainSections = ["project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
