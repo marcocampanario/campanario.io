@@ -18,7 +18,7 @@ links:
   icon_pack: fas
   name: Phycoil Briefing
   url: https://docs.google.com/presentation/d/17dzuxQO1HN941RODJG41rP9I_flfPfYWAkODlfqWlqk/edit?usp=sharing
-- icon: door-open
+- icon: youtube
   icon_pack: fas
   name: Phycoil Pitch
   url: https://www.instagram.com/reel/CH-v2Z3DM0n/
