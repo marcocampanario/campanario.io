@@ -19,15 +19,15 @@ links:
   name: Phycoil Briefing
   url: https://docs.google.com/presentation/d/17dzuxQO1HN941RODJG41rP9I_flfPfYWAkODlfqWlqk/edit?usp=sharing
 - icon: youtube
-  icon_pack: fas
+  icon_pack: fab
   name: Phycoil - First task
   url: https://www.youtube.com/watch?v=DqFNIsxySTU
 - icon: youtube
-  icon_pack: fas
+  icon_pack: fab
   name: Phycoil - Second task
   url: https://www.youtube.com/watch?v=_DT2hgWIQII
 - icon: youtube
-  icon_pack: fas
+  icon_pack: fab
   name: Phycoil - Final Pitch
   url: https://www.youtube.com/watch?v=8TYWEozgcYU
 ---
