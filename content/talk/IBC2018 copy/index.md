@@ -1,8 +1,8 @@
 ---
 title: "VII Brazilian Meeting on Cytogenetics and Cytogenomics"
 excerpt: "Thematic roundtable on new cytogenomics technologies for detection and characterization of variants in the human genome."
-date: 2023-18-05
-date_end: "2023-18-05"
+date: 2023-05-18
+date_end: "2023--05-18"
 show_post_time: false
 event: "VII Brazilian Meeting on Cytogenetics and Cytogenomics"
 event_url: https://sbg.org.br/eventos/rbcc/index.php
