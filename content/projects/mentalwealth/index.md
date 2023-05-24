@@ -6,14 +6,13 @@ date: 2020-01-01
 author: "Marco Antonio Campanário"
 draft: false
 tags:
-  - co-expression
-  - network medicine
+  - ncRNAs
+  - oncogenetics
   - projects
-  - personalized therapy
 categories:
-  - R packages
-  - Bioinformatics
-  - Network Science
+  - leukemia
+  - lncRNAs
+  - SNPs
 # layout options: single or single-sidebar
 layout: single
 ---

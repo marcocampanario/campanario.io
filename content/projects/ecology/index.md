@@ -6,13 +6,12 @@ date: 2018-01-01
 author: "Marco Antonio Campanário"
 draft: false
 tags:
-  - ecology
-  - communities
+  - genetics teaching
+  - educational games
   - projects
 categories:
-  - R
-  - ecology
-  - projects
+  - education
+  - systems thinking
 # layout options: single or single-sidebar
 layout: single
 ---

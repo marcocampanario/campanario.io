@@ -6,13 +6,11 @@ date: 2021-01-01
 author: "Marco Antonio Campanário"
 draft: false
 tags:
-  - drug-repurpusing
-  - network medicine
+  - microalgae biotechnology
   - projects
 categories:
-  - R packages
-  - Bioinformatics
-  - Network Science
+  - molecular biology
+  - microbiology
 # layout options: single or single-sidebar
 layout: single
 ---

@@ -6,12 +6,10 @@ date: 2018-01-01
 author: "Marco Campanário"
 draft: false
 tags:
-  - co-expression
+  - urban dances
   - projects
 categories:
-  - R packages
-  - Bioinformatics
-  - Network Science
+  - art
 layout: single
 # links:
 # - icon: door-open
