@@ -13,8 +13,8 @@ draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- talk
 - workshop
+
 links:
 - icon: door-open
   icon_pack: fas
