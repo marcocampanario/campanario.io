@@ -20,7 +20,7 @@ layout: single
 
 The emergent complexity of modern issues and the deep density of abstract and complex concepts in Genetics lead to the necessity of alternative teaching strategies and resources beyond the traditional, mechanical-positivist education. 
 
-## Publications :books:
+## Academic production :books:
 
 📄 **Campanário, M. A.**, Oliveira, M. G. P., Passos, R. K., Redondo, W. S. G., Husak, W. S. *Ferramentas lúdicas virtuais no ensino remoto: uma experiência do PIBID/UFPR-Biologia no Colégio Estadual do Paraná*. *In*: Anais do Encontro Nacional das Licenciaturas, Seminário Nacional do PIBID, Encontro Nacional de Coordenadores do PIBID (Vol. 1). Campina Grande: Realize Editora (2022).
 
